@@ -33,7 +33,7 @@ namespace StockAnalyzer
                     Console.WriteLine(timeZone);
                 }
             }
-            //Teste legal
+            //Teste chato
             #endregion
         }
     }
